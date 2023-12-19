@@ -1,0 +1,8 @@
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/src/CMakeFiles/Stack.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/samples/CMakeFiles/sample_TArithmeticExpression.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/samples/CMakeFiles/sample_TQueue.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/samples/CMakeFiles/sample_stack.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/Михаил/Desktop/GIT/mp3-lab3-stack/sln/tests/CMakeFiles/tests_Stack.dir

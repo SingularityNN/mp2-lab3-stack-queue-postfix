@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Михаил\Desktop\GIT\mp3-lab3-stack\samples\sample_TQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Михаил\Desktop\GIT\mp3-lab3-stack\samples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D1F72735-93CE-3F07-AD90-8343406246E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
